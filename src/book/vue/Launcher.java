@@ -27,7 +27,7 @@ public class Launcher extends Application {
 ////        
 //        stage.setResizable(false);
 //        
-        stage.setTitle("ZenBook");
+        stage.setTitle("Magic Brothers");
         
         stage.getIcons().add(new Image(getClass().getResourceAsStream("assets/zenbook.png")));
                 
